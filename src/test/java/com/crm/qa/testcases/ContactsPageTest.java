@@ -24,7 +24,6 @@ public class ContactsPageTest extends TestBase{
 		loginPage=new LoginPage();
 		homePage=loginPage.login("xcardtier1@gmail.com","Test@123");
 		contactsPage=homePage.clickOnContactsLink();
-		
 	}
 	
 	

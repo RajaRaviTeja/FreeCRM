@@ -10,18 +10,30 @@
  
   <test preserve-order="true" name="FreeCRMTest" parallel="none" >
     <classes>
-           <class name="com.crm.qa.testcases.LoginPageTest"/>
+        
             <class name="com.crm.qa.testcases.HomePageTest"/>
-            <class name="com.crm.qa.testcases.ContactsPageTest"/>
+           
+
+       
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
 
 
+<!-- 
 
-  <!-- 
-       <class name="com.crm.qa.testcases.LoginPageTest"/>
-       <class name="com.crm.qa.testcases.HomePageTest"/>
-       <class name="com.crm.qa.testcases.ContactsPageTest"/>
-        -->
-      
+
+
+ <class name="com.crm.qa.testcases.LoginPageTest"/>
+            <class name="com.crm.qa.testcases.HomePageTest"/>
+            <class name="com.crm.qa.testcases.ContactsPageTest"/>
+
+
+
+
+
+
+
+ -->
+
+ 
